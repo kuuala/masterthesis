@@ -1,0 +1,7 @@
+numpy<2.2.0
+torch==2.7.0
+tensorflow==2.19.0
+torchvision==0.22.0
+learn2learn==0.2.0
+matplotlib==3.10.3
+torchviz==0.0.3
